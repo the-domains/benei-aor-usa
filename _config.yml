@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.1450253
+color:
+  saturation: 0.6973019
+  lightness: 0.4519393
+  brandStrength: 0.7824621
+  brandColors:
+    - '#010101'
+    - '#E9F2EA'
+    - '#91ACFA'
+    - '#F1E90D'
+    - '#4B4B4B'
+  rhythmicContrast: 0.3785835
+name: Benei Aor USA
