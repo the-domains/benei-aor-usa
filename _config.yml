@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Benei Aor USa
+title: Benei Aor USA
 cta:
   domain: null
   bucket: null
